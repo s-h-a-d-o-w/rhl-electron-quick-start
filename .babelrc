@@ -1,0 +1,4 @@
+{
+    "presets": [ "env", "react" ],
+    "plugins": ["transform-class-properties", "transform-async-to-generator", "transform-es2015-classes"]
+}
