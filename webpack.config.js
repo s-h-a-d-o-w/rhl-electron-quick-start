@@ -11,8 +11,9 @@ module.exports = {
     // See: https://github.com/webpack-contrib/webpack-hot-middleware#use-with-multiple-entry-points-in-webpack
     // And: https://github.com/webpack-contrib/webpack-hot-middleware/issues/197
     entry: {
-        app: ['./src/index.js', 'webpack-hot-middleware/client'],
+        //app: './dummysrc/index.js',
         //print: './src/print.js',
+        app: ['./src/index.js', 'webpack-hot-middleware/client'],
     },
     devtool: 'eval-source-map', // faster to rebuild than inline-source-map
     devServer: {

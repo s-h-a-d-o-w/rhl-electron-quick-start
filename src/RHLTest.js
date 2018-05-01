@@ -50,7 +50,7 @@ class RHLTest extends React.Component {
 	}
 
 	componentWillUnmount() {
-		alert('I knew Dan lied about hot reloading.');
+		console.log('I knew Dan lied about hot reloading.');
 	}
 
 	render() {
