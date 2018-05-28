@@ -1,5 +1,5 @@
 import React from 'react';
-import RHLTest from './RHLTest';
+import RHLTest from '../containers/RHLTest';
 import Introduction from './Introduction';
 import {hot} from 'react-hot-loader';
 
