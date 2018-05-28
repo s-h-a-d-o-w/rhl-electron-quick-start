@@ -4,7 +4,7 @@ Based on [electron-quick-start](https://github.com/electron/electron-quick-start
 README as well if you're new to Electron), this repo provides a very basic React Hot Loader setup.
 
 Presentation is quite rough around the edges, since there is no styling whatsoever but 
-it works well. :smile:
+it works well. :wink:
 
 ## Additions compared to electron-quick-start:
 
@@ -17,6 +17,5 @@ it works well. :smile:
 ## To Use
 
 - Download or clone this repository
-- Delete the .git directory (unless you want to contribute to this project :wink: )
 - Install the dependencies
 - Run `yarn start`
