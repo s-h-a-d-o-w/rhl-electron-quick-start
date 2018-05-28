@@ -18,4 +18,4 @@ it works well. :wink:
 
 - Download or clone this repository
 - Install the dependencies
-- Run `yarn start`
+- Run `yarn start:dev` for development, `yarn start` for production
