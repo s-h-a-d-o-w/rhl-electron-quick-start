@@ -11,6 +11,7 @@ it works well. :wink:
 - babel configuration
 - webpack configurations for development/production
 - webpack-dev-middleware and webpack-hot-middleware in the server-side part of the app
+- React dev tools for Electron via [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer)
 - Example React components to experiment with
 - .editorconfig
 
