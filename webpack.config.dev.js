@@ -6,8 +6,7 @@ module.exports = {
 	mode: 'development',
 
 	entry: {
-		//app: ['webpack-hot-middleware/client'],
-		app: ['webpack-hot-middleware/client?noInfo=false&path=http://127.0.0.1:3000/__webpack_hmr'],
+		app: ['webpack-hot-middleware/client'],
 	},
 	devtool: 'eval-source-map', // faster to rebuild than inline-source-map
 	devServer: {
