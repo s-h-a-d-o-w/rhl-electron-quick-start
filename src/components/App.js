@@ -1,7 +1,6 @@
-import React from 'react';
+import {hot} from 'react-hot-loader';
 import RHLTest from '../containers/RHLTest';
 import Introduction from './Introduction';
-import {hot} from 'react-hot-loader';
 
 const App = () => (
   <div>

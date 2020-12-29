@@ -2,21 +2,12 @@
 root = true
 
 [*]
-indent_style = tab
+indent_style = space
+indent_size = 2
 end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
-
-# Use 2 spaces for json
-[*.json]
-indent_style = space
-indent_size = 2
-
-# Use 4 spaces for the Python files
-[*.py]
-indent_size = 4
-max_line_length = 80
 
 # Minified JavaScript files shouldn't be changed
 [**.min.js]
