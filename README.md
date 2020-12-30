@@ -1,3 +1,5 @@
+# React Hot Loader got deprecated! Use e.g. [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) instead of this.
+
 # rhl-electron-quick-start
 
 Based on [electron-quick-start](https://github.com/electron/electron-quick-start) (read their 
